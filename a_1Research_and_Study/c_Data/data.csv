@@ -2,35 +2,21 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "e886fd36-3d2b-4dba-a953-14e691f183f6",
+   "id": "9b6504fe-98ec-4567-b1f7-2e64f9ef7802",
    "metadata": {},
    "source": [
-    "# Metrics"
+    "# dataset will be here"
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "ae2221f6",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5ae12841-1d2c-4656-804a-4c24d2680445",
    "metadata": {},
+   "outputs": [],
    "source": [
-    "Our List Of Matrics we will See :\n",
-    "- Accuracy\n",
-    "- R-squared (R2)\n",
-    "- Precision\n",
-    "- F1 Score\n",
-    "- Specificity\n",
-    "- Recall (Sensitivity)\n",
-    "- Confusion Matrix\n",
-    "- Mean Absolute Error (MAE)\n",
-    "- Mean Squared Error (MSE)\n",
-    "- Root Mean Squared Error (RMSE)"
+    "# Sheikh Rasel Ahme"
    ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "d28983bd",
-   "metadata": {},
-   "source": []
   }
  ],
  "metadata": {
@@ -49,7 +35,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.12.0"
+   "version": "3.10.6"
   }
  },
  "nbformat": 4,
